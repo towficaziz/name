@@ -1,0 +1,15 @@
+<div class="container-fluid g-0 p-2">
+    <div class="row g-0">
+
+        <div class="col-md-9 justify-content-center align-items-center">
+            <span class="name">{{name.firstname |titlecase}} {{name.lastname |titlecase}}</span>
+        </div>
+        <div class="col-md-3 d-flex justify-content-center align-items-center">
+            <div class="btn-group" role="group">
+                <button type="button" class="btn btn-outline-success" (click)="editNameClicked()">Edit</button>
+                <button type="button" class="btn btn-outline-danger" (click)="deleteNameClicked()">Delete</button>
+            </div>
+        </div>
+    </div>
+
+</div>

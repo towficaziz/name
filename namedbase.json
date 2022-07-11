@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "firstname": "Md Towfic",
+      "lastname": "Aziz",
+      "id": 3
+    },
+    {
+      "firstname": "Md",
+      "lastname": "Aziz",
+      "id": 4
+    },
+    {
+      "firstname": "Md",
+      "lastname": "Towfic",
+      "id": 5
+    },
+    {
+      "firstname": "Abdul",
+      "lastname": "Aziz",
+      "id": 6
+    },
+    {
+      "firstname": "Sopon",
+      "lastname": "Sopon",
+      "id": 7
+    },
+    {
+      "firstname": "din",
+      "lastname": "The day",
+      "id": 8
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
